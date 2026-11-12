@@ -1,14 +1,5 @@
 @import "tailwindcss";
 
-/* Utility สำหรับซ่อน Scrollbar ในมือถือ */
-.no-scrollbar::-webkit-scrollbar {
-  display: none;
-}
-.no-scrollbar {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-}
-
 body {
   background-color: #1e1a2e;
   color: #ffffff;
