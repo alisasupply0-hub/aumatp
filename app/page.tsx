@@ -847,3 +847,4 @@ export default function ExpenseTrackerPrototype() {
     </div>
   );
 }
+
